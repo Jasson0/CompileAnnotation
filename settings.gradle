@@ -1,0 +1,1 @@
+include ':app', ':lib_compile', ':hello-annotation', ':hello-compiler', ':lib_annotation'
